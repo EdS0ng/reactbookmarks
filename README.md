@@ -1,3 +1,5 @@
 # reactbookmarks
 
-https://git.heroku.com/morning-bayou-4735.git
+Basic bookmark app for learning react.
+
+https://morning-bayou-4735.herokuapp.com/
